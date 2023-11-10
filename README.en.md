@@ -1,37 +1,34 @@
 # 洛谷题解
 
 #### Description
-洛谷题解（https://www.luogu.com.cn/）
-持续更新中
+Luogu problem, continuously updated
 
-#### Software Architecture
-Software architecture description
+website: https://www.luogu.com.cn/
 
-#### Installation
+#### Cover chapter
+Currently includes:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+【入门1】顺序结构
+https://blog.csdn.net/lonely__snow/article/details/131622459
 
-#### Instructions
+【入门2】分支结构
+https://blog.csdn.net/lonely__snow/article/details/131754462
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+【入门3】循环结构
+https://blog.csdn.net/lonely__snow/article/details/131852281
 
-#### Contribution
+【入门4】数组
+https://blog.csdn.net/lonely__snow/article/details/132124077
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+【入门5】字符串
+https://blog.csdn.net/lonely__snow/article/details/134044918
 
+【入门6】函数与结构体
+https://blog.csdn.net/lonely__snow/article/details/134211762
 
-#### Gitee Feature
+【算法1-1】模拟与高精度
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### Contains content
+Full AC code, solution ideas, annotations
+
+Detailed answers can be found on the corresponding blog
