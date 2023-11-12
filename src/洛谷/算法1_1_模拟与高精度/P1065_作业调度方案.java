@@ -1,7 +1,7 @@
 package 洛谷.算法1_1_模拟与高精度;
 
 import java.util.Scanner;
-public class P1065_作业调度方案{
+public class P1065_作业调度方案 {
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         int m =  sc.nextInt(); //机器数——步骤数
