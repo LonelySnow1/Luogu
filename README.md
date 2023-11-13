@@ -28,6 +28,7 @@ https://blog.csdn.net/lonely__snow/article/details/134044918
 https://blog.csdn.net/lonely__snow/article/details/134211762
 
 【算法1-1】模拟与高精度
+https://blog.csdn.net/lonely__snow/article/details/134360831
 
 ### 包含内容
 全AC代码，解题思路，注解
