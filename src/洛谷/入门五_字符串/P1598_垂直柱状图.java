@@ -1,4 +1,4 @@
-package 洛谷.字符串;
+package 洛谷.入门五_字符串;
 
 import java.util.Arrays;
 import java.util.Scanner;
