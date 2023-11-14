@@ -1,4 +1,4 @@
-package 洛谷.函数与结构体;
+package 洛谷.入门六_函数与结构体;
 
 import java.util.Arrays;
 import java.util.Scanner;
