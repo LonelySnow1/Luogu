@@ -1,4 +1,4 @@
-package 洛谷.循环结构;
+package 洛谷.入门三_循环结构;
 
 import java.util.Scanner;
 //此题坑点 ： 需考虑0的情况
