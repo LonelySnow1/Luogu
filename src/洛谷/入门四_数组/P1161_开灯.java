@@ -1,4 +1,4 @@
-package 洛谷.数组;
+package 洛谷.入门四_数组;
 //用list会超时
 import java.util.Scanner;
 

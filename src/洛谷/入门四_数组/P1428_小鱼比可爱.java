@@ -1,4 +1,4 @@
-package 洛谷.数组;
+package 洛谷.入门四_数组;
 
 import java.util.Scanner;
 //思路：每次添加都遍历一遍，查找小的个数——o(i)

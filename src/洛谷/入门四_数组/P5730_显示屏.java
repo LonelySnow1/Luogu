@@ -1,4 +1,4 @@
-package 洛谷.数组;
+package 洛谷.入门四_数组;
 
 import java.util.Scanner;
 //此题并未使用数组解决

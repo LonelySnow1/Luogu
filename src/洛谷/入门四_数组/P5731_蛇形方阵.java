@@ -1,4 +1,4 @@
-package 洛谷.数组;
+package 洛谷.入门四_数组;
 //还有一种方法，就是让这个数一圈圈的转，转圈的四步写道一个循环里，让他们依次执行
 import java.util.Scanner;
 

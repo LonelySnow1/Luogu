@@ -1,4 +1,4 @@
-package 洛谷.数组;
+package 洛谷.入门四_数组;
 
 import java.util.ArrayList;
 import java.util.Comparator;
