@@ -1,4 +1,4 @@
-package 洛谷.顺序结构;
+package 洛谷.入门一_顺序结构;
 
 import java.util.Scanner;
 public class P1421_小玉买文具 {

@@ -1,4 +1,4 @@
-package 洛谷.顺序结构;
+package 洛谷.入门一_顺序结构;
 
 public class P1000_超级玛丽游戏 {
     public static void main(String[] args) {
